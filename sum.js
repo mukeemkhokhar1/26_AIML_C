@@ -1,3 +1,5 @@
-let a=65;
-let b=21;
-console.log(a+b);
+    let a=64;
+    let b=33;
+    console.log(a+b);
+   
+ 
